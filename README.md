@@ -8,4 +8,4 @@ UI тесты для сайта demoqa.com с использованием чи�
                   
     pytest .
                   
-
+![Альтернативный текст](https://github.com/andrechizh8/selenium_demoqa/blob/main/readme%20files/1.png)
